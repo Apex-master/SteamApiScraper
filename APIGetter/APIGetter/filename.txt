@@ -1,0 +1,123 @@
+{
+    "buy_order_graph": [
+        [
+            0.15,
+            39,
+            "39 buy orders at £0.15 or higher"
+        ],
+        [
+            0.14,
+            78,
+            "78 buy orders at £0.14 or higher"
+        ],
+        [
+            0.13,
+            89,
+            "89 buy orders at £0.13 or higher"
+        ],
+        [
+            0.12,
+            101,
+            "101 buy orders at £0.12 or higher"
+        ],
+        [
+            0.11,
+            170,
+            "170 buy orders at £0.11 or higher"
+        ],
+        [
+            0.1,
+            211,
+            "211 buy orders at £0.10 or higher"
+        ],
+        [
+            0.09,
+            265,
+            "265 buy orders at £0.09 or higher"
+        ],
+        [
+            0.08,
+            274,
+            "274 buy orders at £0.08 or higher"
+        ],
+        [
+            0.07,
+            277,
+            "277 buy orders at £0.07 or higher"
+        ],
+        [
+            0.06,
+            289,
+            "289 buy orders at £0.06 or higher"
+        ],
+        [
+            0.05,
+            343,
+            "343 buy orders at £0.05 or higher"
+        ],
+        [
+            0.04,
+            397,
+            "397 buy orders at £0.04 or higher"
+        ],
+        [
+            0.03,
+            506,
+            "506 buy orders at £0.03 or higher"
+        ]
+    ],
+    "buy_order_summary": "<span class=\"market_commodity_orders_header_promote\">506</span> requests to buy at <span class=\"market_commodity_orders_header_promote\">£0.15</span> or lower",
+    "buy_order_table": "<table class=\"market_commodity_orders_table\"><tr><th align=\"right\">Price</th><th align=\"right\">Quantity</th></tr><tr><td align=\"right\" class=\"\">£0.15</td><td align=\"right\">39</td></tr><tr><td align=\"right\" class=\"\">£0.14</td><td align=\"right\">39</td></tr><tr><td align=\"right\" class=\"\">£0.13</td><td align=\"right\">11</td></tr><tr><td align=\"right\" class=\"\">£0.12</td><td align=\"right\">12</td></tr><tr><td align=\"right\" class=\"\">£0.11</td><td align=\"right\">69</td></tr><tr><td align=\"right\" class=\"\">£0.10 or less</td><td align=\"right\">336</td></tr></table>",
+    "graph_max_x": 0.26,
+    "graph_max_y": 600,
+    "graph_min_x": 0.03,
+    "highest_buy_order": "15",
+    "lowest_sell_order": "18",
+    "price_prefix": "£",
+    "price_suffix": "",
+    "sell_order_graph": [
+        [
+            0.18,
+            2,
+            "2 sell orders at £0.18 or lower"
+        ],
+        [
+            0.19,
+            7,
+            "7 sell orders at £0.19 or lower"
+        ],
+        [
+            0.2,
+            9,
+            "9 sell orders at £0.20 or lower"
+        ],
+        [
+            0.21,
+            13,
+            "13 sell orders at £0.21 or lower"
+        ],
+        [
+            0.23,
+            20,
+            "20 sell orders at £0.23 or lower"
+        ],
+        [
+            0.24,
+            22,
+            "22 sell orders at £0.24 or lower"
+        ],
+        [
+            0.25,
+            24,
+            "24 sell orders at £0.25 or lower"
+        ],
+        [
+            0.26,
+            25,
+            "25 sell orders at £0.26 or lower"
+        ]
+    ],
+    "sell_order_summary": "<span class=\"market_commodity_orders_header_promote\">46</span> for sale starting at <span class=\"market_commodity_orders_header_promote\">£0.18</span>",
+    "sell_order_table": "<table class=\"market_commodity_orders_table\"><tr><th align=\"right\">Price</th><th align=\"right\">Quantity</th></tr><tr><td align=\"right\" class=\"\">£0.18</td><td align=\"right\">2</td></tr><tr><td align=\"right\" class=\"\">£0.19</td><td align=\"right\">5</td></tr><tr><td align=\"right\" class=\"\">£0.20</td><td align=\"right\">2</td></tr><tr><td align=\"right\" class=\"\">£0.21</td><td align=\"right\">4</td></tr><tr><td align=\"right\" class=\"\">£0.23</td><td align=\"right\">7</td></tr><tr><td align=\"right\" class=\"\">£0.24 or more</td><td align=\"right\">26</td></tr></table>",
+    "success": 1
+}
